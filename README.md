@@ -34,15 +34,15 @@ Introducing a 20% discount strategy for customers with high propensity to churn 
 ### 5. Recommendation
 To reduce the churn, the client should:
 
-* Know who are the churn probables: Analyse churn as it occurs. Invest in a marketing analytics solution to identify user behaviour just before users are about to churn.
+* **Know who are the churn probables:** Analyse churn as it occurs. Invest in a marketing analytics solution to identify user behaviour just before users are about to churn.
 
-* Figure out its most valuable customers: It is best to have a different churn reduction strategy across various user segments. Focus attention on its best customers and allocate more resources to retaining them. Sometimes it is fine to let the unprofitable users churn.
+* **Figure out its most valuable customers:** It is best to have a different churn reduction strategy across various user segments. Focus attention on its best customers and allocate more resources to retaining them. Sometimes it is fine to let the unprofitable users churn.
 
-* Build Personalisation: 75% of consumers are more likely to buy from a retailer that recognizes them by name and recommends products based on their purchase history. It is not always about recommendations for new products, personalization an also be used on the pricing front and the user experience. Create how-to guides for features that the user has not experienced.
+* **Build Personalisation:** 75% of consumers are more likely to buy from a retailer that recognizes them by name and recommends products based on their purchase history. It is not always about recommendations for new products, personalization an also be used on the pricing front and the user experience. Create how-to guides for features that the user has not experienced.
 
-* Make its best people deal with cancellations: Get its best agents to talk to customers when they try to cancel. Train them to win back customer who want to leave. Human interaction will make a huge difference.
+* **Make its best people deal with cancellations:** Get its best agents to talk to customers when they try to cancel. Train them to win back customer who want to leave. Human interaction will make a huge difference.
 
-* Create a community: Building a community around your product or service will create a sense of belonging amongst the customers. They get to hear positive stories about the client. Additionally, the community also leans on each other to solve product-related problems. The community is a great sandbox to test new ideas that can reduce churn and build loyalty.
+* **Create a community:** Building a community around your product or service will create a sense of belonging amongst the customers. They get to hear positive stories about the client. Additionally, the community also leans on each other to solve product-related problems. The community is a great sandbox to test new ideas that can reduce churn and build loyalty.
 
-* Surprise and delight its customers : Create a user journey which has discounts or gifts when a customer enters the churn probable bucket. Make the customer feel special and get him to experience a success event that will convert him into becoming a loyal customer.
+* **Surprise and delight its customers:** Create a user journey which has discounts or gifts when a customer enters the churn probable bucket. Make the customer feel special and get him to experience a success event that will convert him into becoming a loyal customer.
 
