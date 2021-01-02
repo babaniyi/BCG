@@ -25,11 +25,9 @@ Churn is driven mostly by:
 * Electricity campaign the customer first subscribed to
 * Forecasted bill of meter rental for the next 12 months.
 
-The company will spend 11% of its revenue on offering a 20% discount to high-propensity-to-churn customers. This is not the best strategy as the company as the cost is too high.
+In fact, the company will spend 11% of its revenue offering a 20% discount to high-propensity-to-churn customers. This is not the best strategy as the cost is too high.
 
-The assumption that everyone who is offered a discount will accept it is not necessarily true in practice.
-
-Introducing a 20% discount strategy for customers with high propensity to churn will not dramatically lower churn rate.
+Also, the assumption that everyone who is offered a discount will accept it is not necessarily true in practice. Introducing a 20% discount strategy for customers with high propensity to churn will not dramatically lower churn rate.
 
 ### 5. Recommendation
 To reduce the churn, the client should:
