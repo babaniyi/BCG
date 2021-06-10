@@ -13,7 +13,19 @@ Problem is largest in the SME segment
 ### 3. Hypothesis
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
 
+#### 3.1 Business Impact of Hypothesis
+Assumptions:
+1. Everyone who is offered a discount will accept it.
+2. We will offer the discount to customers with 75% or higher probability of churning.
+
+The company will spend approx 11% of its revenue on offering a 20% discount to high-propensity-to-churn customers. This is not the best strategy for the company as the cost is too high.
+
 ### 4. Results
+
+#### 4.1 Model Development
+I built a Random Forest Classification Model. 
+
+#### 4.2 Take aways
 Churn is not due to price sensitivity alone. In fact, price does not work alone, it is affected by other variables. Similar to other variables that influences churn, they don't work alone, they are influenced by other variables.
 
 Churn is driven mostly by:
@@ -29,7 +41,7 @@ In fact, the company will spend 11% of its revenue offering a 20% discount to hi
 
 Also, the assumption that everyone who is offered a discount will accept it is not necessarily true in practice. Introducing a 20% discount strategy for customers with high propensity to churn will not dramatically lower churn rate.
 
-### 5. Recommendation
+### 5. My Recommendation to the client
 To reduce the churn, the client should:
 
 * **Know who are the churn probables:** Analyse churn as it occurs. Invest in a marketing analytics solution to identify user behaviour just before users are about to churn.
